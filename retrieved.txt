@@ -1,0 +1,2722 @@
+<!doctype html>
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+
+	<head>
+		<meta charset="utf-8">
+
+		
+
+		<!-- Google Chrome Frame for IE -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<!-- mobile meta -->
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+		<!-- icons & favicons -->
+		<meta name="apple-mobile-web-app-title" content="Star Wars">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<link rel="icon" sizes="196x196" href="/apple-touch-icon.png">
+		<link rel="shortcut icon" href="//a.dilcdn.com/sw/favicon-44660648232d.ico">
+
+		<meta name="apple-itunes-app" content="app-id=960108075"><meta property="fb:pages" content="169299103121699"><meta property="fb:pages" content="99502471185"><meta property="fb:pages" content="180356405454324">
+		<!-- <meta name="msapplication-TileColor" content="#f01d4f">
+		<meta name="msapplication-TileImage" content="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/win8-tile-icon.png"> -->
+
+		<!-- JM Twitter Cards by Julien Maury 9.3 -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@starwars">
+<meta name="twitter:site" content="@starwars">
+<meta name="twitter:title" content="News">
+<meta name="twitter:image" content="https://www.starwars.com/wp-content/uploads/2018/02/star-wars-logo-new-tall.jpg">
+<!-- /JM Twitter Cards by Julien Maury 9.3 -->
+
+<!-- This site is optimized with the Yoast SEO plugin v11.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Star Wars News | StarWars.com</title>
+<meta name="description" content="Visit StarWars.com to get the all latest news and updates, and test your knowledge with fun quizzes!"/>
+<link rel="canonical" href="https://www.starwars.com/news" />
+<link rel="next" href="https://www.starwars.com/news/page/2" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Visit StarWars.com to get the all latest news and updates, and test your knowledge with fun quizzes!" />
+<meta name="twitter:title" content="Star Wars News | StarWars.com" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.starwars.com/#organization","name":"StarWars.com","url":"https://www.starwars.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.starwars.com/#logo","url":"https://starwarsblog.starwars.com/wp-content/uploads/2020/02/StarWars-Amp.png","width":139,"height":60,"caption":"StarWars.com"},"image":{"@id":"https://www.starwars.com/#logo"}},{"@type":"WebSite","@id":"https://www.starwars.com/#website","url":"https://www.starwars.com/","name":"StarWars.com","publisher":{"@id":"https://www.starwars.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.starwars.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://www.starwars.com/news#webpage","url":"https://www.starwars.com/news","inLanguage":"en-US","name":"Star Wars News | StarWars.com","isPartOf":{"@id":"https://www.starwars.com/#website"},"description":"Visit StarWars.com to get the all latest news and updates, and test your knowledge with fun quizzes!"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//www.starwars.com' />
+<link rel='dns-prefetch' href='//native.sharethrough.com' />
+<link rel='dns-prefetch' href='//starwarsblog.starwars.com' />
+<link rel='dns-prefetch' href='//a.dilcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="StarWars.com &raquo; Feed" href="https://www.starwars.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="StarWars.com &raquo; Comments Feed" href="https://www.starwars.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.starwars.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.14"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='disney-plus-css-css'  href='https://www.starwars.com/wp-content/plugins/disney-plus-plugin/assets/css/disney-plus-plugin.min.css?ver=20210203v1' type='text/css' media='all' />
+<link rel='stylesheet' id='disney-slider-css-css'  href='https://www.starwars.com/wp-content/plugins/disney-slider-plugin/assets/css/disney-slider-styling.min.css?ver=20210222v2' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-stylesheet-css'  href='//a.dilcdn.com/swp/us/application.css?ver=20220301v2' type='text/css' media='all' />
+<link rel='stylesheet' id='swt-stylesheet-css'  href='https://www.starwars.com/wp-content/themes/starwars-theme/library/css/main.min.css?ver=20220301v2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.lightbox.min.css-css'  href='https://www.starwars.com/wp-content/plugins/wp-jquery-lightbox/styles/lightbox.min.css?ver=1.4.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.starwars.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ddblclick = {"debug":"","keywords":"homepage","dfp_category":"homepage","page_name":"homepage","adtag_postfix":"homepage","content_type":"homepage","content_id":"33163","site_section":"homepage","ad_unit_code":"21783347309","ad_code":"starwars","position":{"page_template":"home","page_type":"home"},"bidding_enabled":"","pbjs_override":"","native_ads_toggle":"1","native_placement_homepage_id":"JVtDX4WDdk3eNSPjiAbmsXFy","native_placement_homepage_addtl_id":"","native_placement_featured_id":"JVtDX4WDdk3eNSPjiAbmsXFy","native_placement_category_feed_id":"JVtDX4WDdk3eNSPjiAbmsXFy","native_placement_category_feed_addtl_id":"","native_placement_single_articles_id":"tK6v3EMJe7jiRZTFWhFHWHUU"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/plugins/disney-doubleclick-plugin/assets/js/disney-doubleclick.min.js?ver=20210205v1'></script>
+<script type='text/javascript' src='//native.sharethrough.com/assets/sfp.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpml_xdomain_data = {"css_selector":"wpml-ls-item","ajax_url":"https:\/\/www.starwars.com\/wp-admin\/admin-ajax.php","current_lang":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://starwarsblog.starwars.com/wp-content/plugins/sitepress-multilingual-cms/res/js/xdomain-data.js?ver=3.9.4'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/themes/starwars-theme/library/js/vendor/modernizr.js?ver=2.5.3'></script>
+<script type='text/javascript' src='//a.dilcdn.com/swp/us/new_relic_head.js?ver=20220301v2'></script>
+<link rel='https://api.w.org/' href='https://www.starwars.com/news/wp-json/' />
+<meta name="generator" content="WPML ver:3.9.4 stt:1,3,65,44;" />
+<style>
+.tm-quiz-container .question-background
+{ background-color: #2a2a2a !important; }
+
+.tm-quiz-container .image-fill-color
+{ background-color: rgba(176, 176, 176, .3); !important; }
+
+.tm-quiz-container .text-fill-color
+{ background-color: #b0b0b0 !important; }
+
+.tm-quiz-container .tmqz-poll-highlight
+{ -webkit-box-shadow: 0 0 0 4px #47d66c !important ; box-shadow: 0 0 0 4px #47d66c !important ; }
+
+.tm-quiz-container .text-percent .checkmark:after
+{ border: solid #b0b0b0 !important; border-width: 0px 6px 6px 0px !important; }
+
+.tm-quiz-container .option-text-background
+{ background-color: #dad9d9 !important; }
+
+.tm-quiz-container .question-text:after
+{ border-bottom: 5px solid #e7e7e7; border-left: 10px solid transparent; border-right: 10px solid transparent; bottom: 0; content: ""; display: block; height: 0; position: absolute; right: 25%; width: 70px; }
+
+.tm-quiz-container .question-text
+{ -moz-border-radius: 5px 0 0 5px; -webkit-border-radius: 5px 0 0 5px; border-radius: 5px 0 0 5px; }
+
+.tm-quiz-container .text-2up
+{ -moz-border-radius: 0 0 5px 5px; -webkit-border-radius: 0 0 5px 5px; border-radius: 0 0 5px 5px; }
+
+.tm-quiz-container .text-no-image
+{ -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
+
+.tm-quiz-container .right-text
+{ -moz-border-radius: 0 5px 5px 0; -webkit-border-radius: 0 5px 5px 0; border-radius: 0 5px 5px 0; }
+
+.tm-quiz-container .text-no-image .tmqz-poll-highlight
+{ -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
+
+.tm-quiz-container .text-no-image .text-fill
+{ -moz-border-radius: 5px 0 0 5px; -webkit-border-radius: 5px 0 0 5px; border-radius: 5px 0 0 5px; }
+
+.tm-quiz-container .right-text
+{ -moz-border-radius: 0 5px 5px 0; -webkit-border-radius: 0 5px 5px 0; border-radius: 0 5px 5px 0; }
+
+.tm-quiz-container .float-image, .tm-quiz-container .float-image img
+{ -moz-border-radius: 5px 0 0 5px; -webkit-border-radius: 5px 0 0 5px; border-radius: 5px 0 0 5px; }
+
+.tm-quiz-container .float-image .tmqz-poll-highlight
+{ -moz-border-radius: 5px 0 0 5px; -webkit-border-radius: 5px 0 0 5px; border-radius: 5px 0 0 5px; }
+
+.tm-quiz-container .image-2up-sizing, .tm-quiz-container .image-2up-sizing img, .tm-quiz-container .image-2up-sizing .tmqz-poll-highlight
+{ -moz-border-radius: 5px 5px 0 0; -webkit-border-radius: 5px 5px 0 0; border-radius: 5px 5px 0 0; }
+
+.tm-quiz-container .image-2up-sizing .image-fill
+{ -moz-border-radius: 5px 0 0 0; -webkit-border-radius: 5px 0 0 0; border-radius: 5px 0 0 0; }
+
+.tm-quiz-container .images-only, .tm-quiz-container .images-only img, .tm-quiz-container .images-only .equal-image, .tm-quiz-container .images-only .tmqz-poll-highlight
+{ -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
+
+.tm-quiz-container .images-only .image-fill
+{ -moz-border-radius: 5px 0 0 5px; -webkit-border-radius: 5px 0 0 5px; border-radius: 5px 0 0 5px; }
+
+.tm-quiz-status { background-color: #dedede !important; color: #000000; text-align: center; vertical-align: middle; line-height: 30px; }
+
+#tm-quiz-general-error { background-color: #ffa9a9 !important; color: #ffffff; text-align: center; vertical-align: middle; line-height: 40px; margin-top: 15px; }
+
+.tm-quiz-status  p, #tm-quiz-general-error p { margin: 0px;}
+</style><!-- PanoPress [1.2] -->
+<script type="text/javascript">
+pp_oppp=false;
+pb_options={"fullscreen":true,"fade":true,"animate":true,"shadow":true,"width":"640px","height":"480px","style":{"box":"pb-light","overlay":"pb-light-overlay"},"galleries":false,"resize":1};
+</script>
+<script type="text/javascript"  src="https://www.starwars.com/wp-content/plugins/panopress/js/panopress.js?v=1.2"></script>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.starwars.com/wp-content/plugins/panopress/css/panopress.css?v=1.2" />	
+<style type="text/css">
+.pp-embed-content{ min-height: 480px; }
+</style>
+<!-- /PanoPress -->
+<meta property="og:site_name" content="StarWars.com" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="fb:app_id" content="251829831684619" />
+<meta property="og:title" content="Star Wars News | StarWars.com" />
+<meta property="og:description" content="Visit StarWars.com to get the all latest news and updates, and test your knowledge with fun quizzes!" />
+<meta property="og:url" content="https://www.starwars.com" />
+<link rel="icon" href="https://starwarsblog.starwars.com/wp-content/uploads/2022/06/cropped-Favicon-OWK-VADER-512x512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://starwarsblog.starwars.com/wp-content/uploads/2022/06/cropped-Favicon-OWK-VADER-512x512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://starwarsblog.starwars.com/wp-content/uploads/2022/06/cropped-Favicon-OWK-VADER-512x512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://starwarsblog.starwars.com/wp-content/uploads/2022/06/cropped-Favicon-OWK-VADER-512x512-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.twitter-tweet {margin:auto;}		</style>
+	
+		<!-- Drop Google Analytics here -->
+		<!-- end analytics -->
+
+		<!-- Load Fonts -->
+		<script type="text/javascript">
+			var MTIProjectId='0e4157c7-2a10-498d-a991-de285934c097';
+			 (function() {
+					var mtiTracking = document.createElement('script');
+					mtiTracking.type='text/javascript';
+					mtiTracking.async='true';
+					mtiTracking.src=('https:'==document.location.protocol?'https:':'http:')+'//fast.fonts.net/t/trackingCode.js';
+					(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+			   })();
+		</script>
+	</head>
+
+	<body class="blog mtt">
+<!-- took out for now    -->
+		
+		
+	<script type="text/javascript">this.Disney = {
+		"portal":"www.starwars.com",
+		"ajaxBase":"/",
+		"didBase":"https://secure.starwars.com/_swdid/"
+	};</script>
+
+		<div id="style-pack-theming"></div>
+<!-- MH Header --><!-- Cached at: 2022-07-28T03:32:19+00:00 --> <script type="text/javascript">Disney.DidOpts={"loc":"en-US"};</script> <script src= 'https://api.disney.com/static/social/flights/latest/disneySocial.js'
+      type="text/javascript"
+      data-config='{"productID":"starwarsweb","bi.app":"starwarsweb","language":"en","debug_options":{"keepOpen":false},"standalone":true,"avatar":{"stylesheetUrl":["https://static-mh.content.disney.io/starwars/assets/avatar/css-override-7f52ef282c37.css"]}}'>
+    </script>   <div id="nav-outer-container" class="full-nav gapless">  <div id="nav-drawer-bg"></div> <div id="nav-inner-container"> <span id="navbar"> <div id="nav-wrapper"> <div id="nav-header-bg"> <span class="nav-header-fade right"></span> <span class="nav-header-fade left"></span> </div> <div id="nav-external-links" class="social"> <ul id="social-links">
+    <li>
+      <a class="facebook" href="https://www.facebook.com/StarWars" target="_blank" rel="noopener noreferrer" data-cto="social" title="facebook">
+        <span class="facebook-icon"></span>
+      </a>
+    </li>
+    <li>
+      <a class="instagram" href="https://www.instagram.com/starwars/" target="_blank" rel="noopener noreferrer" data-cto="social" title="instagram">
+        <span class="instagram-icon"></span>
+      </a>
+    </li>
+    <li>
+      <a class="twitter" href="https://twitter.com/starwars" target="_blank" rel="noopener noreferrer" data-cto="social" title="twitter">
+        <span class="twitter-icon"></span>
+      </a>
+    </li>
+    <li>
+      <a class="youtube" href="https://www.youtube.com/user/starwars" target="_blank" rel="noopener noreferrer" data-cto="social" title="youtube">
+        <span class="youtube-icon"></span>
+      </a>
+    </li>
+</ul>
+ <span class="sw-kids-container"> <a class="sw-kids" href="https://starwarskids.com/" target="_blank" rel="noopener noreferrer" title="Star Wars Kids" data-cto="swkids">
+  <span class="sw-kids-icon"></span>
+</a>
+ </span> <div id="chrome-controls-container"> <div id="chrome-controls"> </div> </div>  </div> <div id="nav-drawer-toggle" tabindex="1" role="button"> <div class="toggle-icon"> <span class="bar"></span> <span class="bar"></span> <span class="bar"></span> </div> </div> <a id="nav-sw-logo-bar" href="/" itemprop="logo" data-cto="swlogo" title="Star Wars Home"></a> <a id="nav-sw-logo" href="/" itemprop="logo" data-cto="swlogo" title="Star Wars Logo"></a> <div id="nav-utility"> <div id="nav-search-container"> <form id="topnav-search" class="nav-search top-nav" action="/search" method="GET"> <div class="query-field"> <input id="nav-search-input" name="q" type="text" placeholder="Search Star Wars" value="" type="text" spellcheck="false" autocorrect="off" autocapitalize="off"> </div> </form> <button class="nav-search-button ada-el-focus" aria-label="Close Search" id="nav-search-close-icon"></button> <button class="nav-search-button ada-el-focus" aria-label="Open Search" id="nav-search-icon"></button> </div> <div class="nav-login">
+  <div class="logged-out-container"> 
+    <div class="disid-login log-in-out" role="button" tabindex="0">Log In</div>
+      <p aria-hidden="true"> // </p>
+    <div class="disid-signup log-in-out" role="button" role="button" tabindex="0">Sign Up</div>
+  </div>
+
+  <div class="logged-in-container">
+    <div class="display-user log-in-out">
+      <span class="disid-user" role="button" tabindex="0"></span>
+      <span class="arrow"></span>
+    </div>
+    <div class="disid-flyout">
+      <div class="disid-login flyout-item" role="button" tabindex="0">Account</div> 
+      <div class="disid-signup flyout-item" role="button" tabindex="0">Log Out</div>
+    </div>
+  </div>
+</div>
+ </div> </div> </span> <div id="nav-drawer"> <nav id="nav-content"> <div class="nav-login">
+  <div class="logged-out-container"> 
+    <div class="disid-login log-in-out" role="button" tabindex="0">Log In</div>
+      <p aria-hidden="true"> // </p>
+    <div class="disid-signup log-in-out" role="button" role="button" tabindex="0">Sign Up</div>
+  </div>
+
+  <div class="logged-in-container">
+    <div class="display-user log-in-out">
+      <span class="disid-user" role="button" tabindex="0"></span>
+      <span class="arrow"></span>
+    </div>
+    <div class="disid-flyout">
+      <div class="disid-login flyout-item" role="button" tabindex="0">Account</div> 
+      <div class="disid-signup flyout-item" role="button" tabindex="0">Log Out</div>
+    </div>
+  </div>
+</div>
+ <ul id="section-links" itemscope itemtype="https://www.schema.org/SiteNavigationElement">  <li itemprop="name"> <a itemprop="url" class="section-link news-content" href="/news" data-cto="section" data-section="news"> <p class="news-content-title"><span>News + Blog</span><span class="vertical-bar"></span><span class="horizontal-bar"></p> </a> </li>  <li itemprop="name"> <a itemprop="url" class="section-link video-content" href="/video" data-cto="section" data-section="video"> <p class="video-content-title"><span>Video</span><span class="vertical-bar"></span><span class="horizontal-bar"></p> </a> </li>  <li itemprop="name"> <a itemprop="url" class="section-link films-content" href="/films" data-cto="section" data-section="films"> <p class="films-content-title"><span>Films</span><span class="vertical-bar"></span><span class="horizontal-bar"></p> </a> </li>  <li itemprop="name"> <a itemprop="url" class="section-link tvshows-content" href="/series" data-cto="section" data-section="tvshows"> <p class="tvshows-content-title"><span>Series</span><span class="vertical-bar"></span><span class="horizontal-bar"></p> </a> </li>  <li itemprop="name"> <a itemprop="url" class="section-link gamesapps-content" href="/interactive" data-cto="section" data-section="gamesapps"> <p class="gamesapps-content-title"><span>Interactive</span><span class="vertical-bar"></span><span class="horizontal-bar"></p> </a> </li>  <li itemprop="name"> <a itemprop="url" class="section-link community-content" href="/community" data-cto="section" data-section="community"> <p class="community-content-title"><span>Community</span><span class="vertical-bar"></span><span class="horizontal-bar"></p> </a> </li>  <li itemprop="name"> <a itemprop="url" class="section-link databank-content" href="/databank" data-cto="section" data-section="databank"> <p class="databank-content-title"><span>Databank</span><span class="vertical-bar"></span><span class="horizontal-bar"></p> </a> </li>  <li itemprop="name"> <a itemprop="url" class="section-link disneyplus-content" href="/disneyplus" data-cto="section" data-section="disneyplus"> <p class="disneyplus-content-title"><span>Disney+</span><span class="vertical-bar"></span><span class="horizontal-bar"></p> </a> </li>  </ul> <div class="drawer-bottom"> <div class="sw-kids-container"> <a class="sw-kids" href="https://starwarskids.com/" target="_blank" rel="noopener noreferrer" title="Star Wars Kids" data-cto="swkids">
+  <span class="sw-kids-icon"></span>
+</a>
+ </div> <ul id="social-links">
+    <li>
+      <a class="facebook" href="https://www.facebook.com/StarWars" target="_blank" rel="noopener noreferrer" data-cto="social" title="facebook">
+        <span class="facebook-icon"></span>
+      </a>
+    </li>
+    <li>
+      <a class="instagram" href="https://www.instagram.com/starwars/" target="_blank" rel="noopener noreferrer" data-cto="social" title="instagram">
+        <span class="instagram-icon"></span>
+      </a>
+    </li>
+    <li>
+      <a class="twitter" href="https://twitter.com/starwars" target="_blank" rel="noopener noreferrer" data-cto="social" title="twitter">
+        <span class="twitter-icon"></span>
+      </a>
+    </li>
+    <li>
+      <a class="youtube" href="https://www.youtube.com/user/starwars" target="_blank" rel="noopener noreferrer" data-cto="social" title="youtube">
+        <span class="youtube-icon"></span>
+      </a>
+    </li>
+</ul>
+ </div>  </nav> </div>   <div id='countdown'>
+    <ol>
+    </ol>
+  </div>
+ <div id="page-overlay"></div> </div> </div>		<div id="body-wrapper" class="container tm-cto gapless">
+
+<main class="news-content">
+	
+	<main class="news-loop">
+
+    <aside class="sidebar">
+
+        <nav class="category-nav news">
+    <h2>News + Blog Categories</h2>
+    <div class="selected-category-wrapper"><h2 class="selected-category">All News + Blog Categories</h2></div><ul><li><a name="&lpos=sub-nav/1&lid=sub-nav/1/link/all"  href="/news" class="selected">All</a></li><li><a name="&lpos=sub-nav/2&lid=sub-nav/2/link/Andor" href="/news/category/andor" >Andor</a></li><li><a name="&lpos=sub-nav/3&lid=sub-nav/3/link/Behind the Scenes" href="/news/category/behind-the-scenes" >Behind the Scenes</a></li><li><a name="&lpos=sub-nav/4&lid=sub-nav/4/link/Books + Comics" href="/news/category/books-and-comics" >Books + Comics</a></li><li><a name="&lpos=sub-nav/5&lid=sub-nav/5/link/Characters + Histories" href="/news/category/characters-and-histories" >Characters + Histories</a></li><li><a name="&lpos=sub-nav/6&lid=sub-nav/6/link/Collecting" href="/news/category/collecting" >Collecting</a></li><li><a name="&lpos=sub-nav/7&lid=sub-nav/7/link/Creativity" href="/news/category/creativity" >Creativity</a></li><li><a name="&lpos=sub-nav/8&lid=sub-nav/8/link/Disney Parks" href="/news/category/disney-parks" >Disney Parks</a></li><li><a name="&lpos=sub-nav/9&lid=sub-nav/9/link/Disney+" href="/news/category/disney" >Disney+</a></li><li><a name="&lpos=sub-nav/10&lid=sub-nav/10/link/Events" href="/news/category/events" >Events</a></li><li><a name="&lpos=sub-nav/11&lid=sub-nav/11/link/Fans + Community" href="/news/category/fans-and-community" >Fans + Community</a></li><li><a name="&lpos=sub-nav/12&lid=sub-nav/12/link/Films" href="/news/category/films" >Films</a></li><li><a name="&lpos=sub-nav/13&lid=sub-nav/13/link/Force For Change" href="/news/category/force-for-change" >Force For Change</a></li><li><a name="&lpos=sub-nav/14&lid=sub-nav/14/link/Forces of Destiny" href="/news/category/forces-of-destiny" >Forces of Destiny</a></li><li><a name="&lpos=sub-nav/15&lid=sub-nav/15/link/Galaxy of Adventures" href="/news/category/galaxy-of-adventures" >Galaxy of Adventures</a></li><li><a name="&lpos=sub-nav/16&lid=sub-nav/16/link/Games + Apps" href="/news/category/games-apps" >Games + Apps</a></li><li><a name="&lpos=sub-nav/17&lid=sub-nav/17/link/ILMxLAB" href="/news/category/ilmxlab" >ILMxLAB</a></li><li><a name="&lpos=sub-nav/18&lid=sub-nav/18/link/In Pop Culture" href="/news/category/in-pop-culture" >In Pop Culture</a></li><li><a name="&lpos=sub-nav/19&lid=sub-nav/19/link/Interviews" href="/news/category/interviews" >Interviews</a></li><li><a name="&lpos=sub-nav/20&lid=sub-nav/20/link/LEGO Star Wars" href="/news/category/lego-star-wars" >LEGO Star Wars</a></li><li><a name="&lpos=sub-nav/21&lid=sub-nav/21/link/Lucasfilm" href="/news/category/lucasfilm" >Lucasfilm</a></li><li><a name="&lpos=sub-nav/22&lid=sub-nav/22/link/Merchandise" href="/news/category/merchandise" >Merchandise</a></li><li><a name="&lpos=sub-nav/23&lid=sub-nav/23/link/Obi-Wan Kenobi" href="/news/category/obi-wan-kenobi" >Obi-Wan Kenobi</a></li><li><a name="&lpos=sub-nav/24&lid=sub-nav/24/link/Opinions" href="/news/category/opinions" >Opinions</a></li><li><a name="&lpos=sub-nav/25&lid=sub-nav/25/link/Quizzes + Polls" href="/news/category/quizzes" >Quizzes + Polls</a></li><li><a name="&lpos=sub-nav/26&lid=sub-nav/26/link/Recipes" href="/news/category/recipes" >Recipes</a></li><li><a name="&lpos=sub-nav/27&lid=sub-nav/27/link/Rogue One" href="/news/category/rogue-one" >Rogue One</a></li><li><a name="&lpos=sub-nav/28&lid=sub-nav/28/link/Solo" href="/news/category/solo" >Solo</a></li><li><a name="&lpos=sub-nav/29&lid=sub-nav/29/link/Star Wars Celebration" href="/news/category/star-wars-celebration" >Star Wars Celebration</a></li><li><a name="&lpos=sub-nav/30&lid=sub-nav/30/link/Star Wars Day" href="/news/category/star-wars-day" >Star Wars Day</a></li><li><a name="&lpos=sub-nav/31&lid=sub-nav/31/link/Star Wars Rebels" href="/news/category/star-wars-rebels" >Star Wars Rebels</a></li><li><a name="&lpos=sub-nav/32&lid=sub-nav/32/link/Star Wars Resistance" href="/news/category/star-wars-resistance" >Star Wars Resistance</a></li><li><a name="&lpos=sub-nav/33&lid=sub-nav/33/link/Television" href="/news/category/television" >Television</a></li><li><a name="&lpos=sub-nav/34&lid=sub-nav/34/link/The Bad Batch" href="/news/category/the-bad-batch" >The Bad Batch</a></li><li><a name="&lpos=sub-nav/35&lid=sub-nav/35/link/The Book of Boba Fett" href="/news/category/the-book-of-boba-fett" >The Book of Boba Fett</a></li><li><a name="&lpos=sub-nav/36&lid=sub-nav/36/link/The Clone Wars" href="/news/category/star-wars-the-clone-wars" >The Clone Wars</a></li><li><a name="&lpos=sub-nav/37&lid=sub-nav/37/link/The Force Awakens" href="/news/category/the-force-awakens" >The Force Awakens</a></li><li><a name="&lpos=sub-nav/38&lid=sub-nav/38/link/The High Republic" href="/news/category/the-high-republic" >The High Republic</a></li><li><a name="&lpos=sub-nav/39&lid=sub-nav/39/link/The Last Jedi" href="/news/category/the-last-jedi" >The Last Jedi</a></li><li><a name="&lpos=sub-nav/40&lid=sub-nav/40/link/The Mandalorian" href="/news/category/the-mandalorian" >The Mandalorian</a></li><li><a name="&lpos=sub-nav/41&lid=sub-nav/41/link/The Rise of Skywalker" href="/news/category/the-rise-of-skywalker" >The Rise of Skywalker</a></li><li><a name="&lpos=sub-nav/42&lid=sub-nav/42/link/The Star Wars Show" href="/news/category/the-star-wars-show" >The Star Wars Show</a></li><li><a name="&lpos=sub-nav/43&lid=sub-nav/43/link/Visions" href="/news/category/star-wars-visions" >Visions</a></li></ul><select class="sub-nav-mobile" onchange="location = this.options[this.selectedIndex].value;"><option value="/news" selected>All News + Blog Categories</option><option value="/news/category/andor" >Andor</option><option value="/news/category/behind-the-scenes" >Behind the Scenes</option><option value="/news/category/books-and-comics" >Books + Comics</option><option value="/news/category/characters-and-histories" >Characters + Histories</option><option value="/news/category/collecting" >Collecting</option><option value="/news/category/creativity" >Creativity</option><option value="/news/category/disney-parks" >Disney Parks</option><option value="/news/category/disney" >Disney+</option><option value="/news/category/events" >Events</option><option value="/news/category/fans-and-community" >Fans + Community</option><option value="/news/category/films" >Films</option><option value="/news/category/force-for-change" >Force For Change</option><option value="/news/category/forces-of-destiny" >Forces of Destiny</option><option value="/news/category/galaxy-of-adventures" >Galaxy of Adventures</option><option value="/news/category/games-apps" >Games + Apps</option><option value="/news/category/ilmxlab" >ILMxLAB</option><option value="/news/category/in-pop-culture" >In Pop Culture</option><option value="/news/category/interviews" >Interviews</option><option value="/news/category/lego-star-wars" >LEGO Star Wars</option><option value="/news/category/lucasfilm" >Lucasfilm</option><option value="/news/category/merchandise" >Merchandise</option><option value="/news/category/obi-wan-kenobi" >Obi-Wan Kenobi</option><option value="/news/category/opinions" >Opinions</option><option value="/news/category/quizzes" >Quizzes + Polls</option><option value="/news/category/recipes" >Recipes</option><option value="/news/category/rogue-one" >Rogue One</option><option value="/news/category/solo" >Solo</option><option value="/news/category/star-wars-celebration" >Star Wars Celebration</option><option value="/news/category/star-wars-day" >Star Wars Day</option><option value="/news/category/star-wars-rebels" >Star Wars Rebels</option><option value="/news/category/star-wars-resistance" >Star Wars Resistance</option><option value="/news/category/television" >Television</option><option value="/news/category/the-bad-batch" >The Bad Batch</option><option value="/news/category/the-book-of-boba-fett" >The Book of Boba Fett</option><option value="/news/category/star-wars-the-clone-wars" >The Clone Wars</option><option value="/news/category/the-force-awakens" >The Force Awakens</option><option value="/news/category/the-high-republic" >The High Republic</option><option value="/news/category/the-last-jedi" >The Last Jedi</option><option value="/news/category/the-mandalorian" >The Mandalorian</option><option value="/news/category/the-rise-of-skywalker" >The Rise of Skywalker</option><option value="/news/category/the-star-wars-show" >The Star Wars Show</option><option value="/news/category/star-wars-visions" >Visions</option></select></nav>	    
+    </aside>
+
+    <section class="news-loop-content">
+
+        
+            <h1 class="section-header category-header">Latest from News + Blog</h1>
+
+        
+    	<ul class="news-articles">
+
+                                <li>
+                        
+<article id="post-187431" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Bossk Sneaks Aboard in Marvel’s Star Wars: Halcyon Legacy #5 &#8211; Exclusive Preview"
+				href="https://www.starwars.com/news/marvel-star-wars-halcyon-legacy-5-preview"
+				rel="bookmark"
+				title="Bossk Sneaks Aboard in Marvel’s Star Wars: Halcyon Legacy #5 &#8211; Exclusive Preview">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/borssk-halcyon5-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Star Wars: Halcyon Legacy page 1">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Bossk Sneaks Aboard in Marvel’s <em>Star Wars: Halcyon Legacy</em> #5 &#8211; Exclusive Preview"
+					href="https://www.starwars.com/news/marvel-star-wars-halcyon-legacy-5-preview"
+					rel="bookmark"
+					title="Bossk Sneaks Aboard in Marvel’s Star Wars: Halcyon Legacy #5 &#8211; Exclusive Preview">
+
+						Bossk Sneaks Aboard in Marvel’s <em>Star Wars: Halcyon Legacy</em> #5 &#8211; Exclusive Preview
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>The bounty hunter interrupts a pleasure cruise to remind a traveler about his unpaid debt.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 27, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187578" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Light &#038; Magic Is Here!"
+				href="https://www.starwars.com/news/light-magic-is-here"
+				rel="bookmark"
+				title="Light &#038; Magic Is Here!">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/light-and-magic-tall-A-1536x512.jpeg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="George Lucas looks at art during the making of Star Wars: A New Hope from the key art of Light and Magic.">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/<em>Light &#038; Magic</em> Is Here!"
+					href="https://www.starwars.com/news/light-magic-is-here"
+					rel="bookmark"
+					title="Light &#038; Magic Is Here!">
+
+						<em>Light &#038; Magic</em> Is Here!
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>The six-part documentary series on the history of Industrial Light &#038; Magic is now streaming on Disney+.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Lucasfilm' href='/news/category/lucasfilm'>Lucasfilm</a></span>
+
+    JULY 27, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        <article>
+  <section>
+    <div id="native-ad-JVtDX4WDdk3eNSPjiAbmsXFy" style="display: none;"></div>
+    <script type="text/javascript">TM.Ads.addNativeAd( 'native-ad-JVtDX4WDdk3eNSPjiAbmsXFy', 'JVtDX4WDdk3eNSPjiAbmsXFy' );</script>
+  </section>
+</article>
+                    </li>
+                    <li>
+                        
+<article id="post-187060" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/“We’re Enough”: An Ode to Owen and Beru"
+				href="https://www.starwars.com/news/owen-and-beru"
+				rel="bookmark"
+				title="“We’re Enough”: An Ode to Owen and Beru">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/an-ode-to-owen-and-beru_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Owen and Beru">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/“We’re Enough”: An Ode to Owen and Beru"
+					href="https://www.starwars.com/news/owen-and-beru"
+					rel="bookmark"
+					title="“We’re Enough”: An Ode to Owen and Beru">
+
+						“We’re Enough”: An Ode to Owen and Beru
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>In honor of National Aunt and Uncle Day, StarWars.com salutes the couple that sacrificed everything for their nephew.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/kellyknox" title="Posts by Kelly Knox" rel="author">Kelly Knox</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Characters + Histories' href='/news/category/characters-and-histories'>Characters + Histories</a></span>
+
+    JULY 26, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/kellyknox">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/kelly-knox-byline-2-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Kelly Knox"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+                                <li>
+                        
+<article id="post-186542" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/A Star Wars Tattoo Story"
+				href="https://www.starwars.com/news/star-wars-tattoo-story"
+				rel="bookmark"
+				title="A Star Wars Tattoo Story">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/06/swc-tattoo-mike-bianco-tattoo-TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Tattoo from Star Wars Celebration">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/A <em>Star Wars</em> Tattoo Story"
+					href="https://www.starwars.com/news/star-wars-tattoo-story"
+					rel="bookmark"
+					title="A Star Wars Tattoo Story">
+
+						A <em>Star Wars</em> Tattoo Story
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>A weird pitch, <em>Star Wars</em> Celebration, and loving the prequels: Inside one StarWars.com writer’s experience getting some Episode I-inspired ink. </p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/kbates" title="Posts by Kristen Bates" rel="author">Kristen Bates</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Star Wars Celebration' href='/news/category/star-wars-celebration'>Star Wars Celebration</a></span>
+
+    JULY 25, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/kbates">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2020/04/kristen-bates-byline-image-3-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Kristen Bates"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187403" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/SDCC 2022: Hasbro Reveals New Mandalorian, Star Wars Jedi: Survivor Figures and More"
+				href="https://www.starwars.com/news/hasbro-reveals-sdcc-2022"
+				rel="bookmark"
+				title="SDCC 2022: Hasbro Reveals New Mandalorian, Star Wars Jedi: Survivor Figures and More">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/SDCC-2022-HASBRO-COLLAGE_TALL-RATIOS-BLASTER-DOOR-297-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/SDCC 2022: Hasbro Reveals New <em>Mandalorian</em>, <em>Star Wars Jedi: Survivor</em> Figures and More"
+					href="https://www.starwars.com/news/hasbro-reveals-sdcc-2022"
+					rel="bookmark"
+					title="SDCC 2022: Hasbro Reveals New Mandalorian, Star Wars Jedi: Survivor Figures and More">
+
+						SDCC 2022: Hasbro Reveals New <em>Mandalorian</em>, <em>Star Wars Jedi: Survivor</em> Figures and More
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Set your scanners and check out figures, roleplay items, and vehicles coming soon.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Collecting' href='/news/category/collecting'>Collecting</a></span>
+
+    JULY 22, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187275" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/SDCC 2022: New Star Wars: The High Republic Tales and More Reveals from the Lucasfilm Publishing Panel"
+				href="https://www.starwars.com/news/lucasfilm-publishing-panel-sdcc-2022"
+				rel="bookmark"
+				title="SDCC 2022: New Star Wars: The High Republic Tales and More Reveals from the Lucasfilm Publishing Panel">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/sdcc-2022-the-high-republic-cover_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="The High Republic cover">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/SDCC 2022: New <em>Star Wars: The High Republic</em> Tales and More Reveals from the Lucasfilm Publishing Panel"
+					href="https://www.starwars.com/news/lucasfilm-publishing-panel-sdcc-2022"
+					rel="bookmark"
+					title="SDCC 2022: New Star Wars: The High Republic Tales and More Reveals from the Lucasfilm Publishing Panel">
+
+						SDCC 2022: New <em>Star Wars: The High Republic</em> Tales and More Reveals from the Lucasfilm Publishing Panel
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Check out 10 reveals and first looks from the San Diego Comic-Con staple.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 22, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187018" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Inside the Lucasfilm Archive: A Brewing Rebellion in the Obi-Wan Kenobi Limited Series"
+				href="https://www.starwars.com/news/inside-the-lucasfilm-archive-obi-wan-kenobi-props-3"
+				rel="bookmark"
+				title="Inside the Lucasfilm Archive: A Brewing Rebellion in the Obi-Wan Kenobi Limited Series">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/owk-props-rebels-tala-TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Tala from Obi-Wan Kenobi">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Inside the Lucasfilm Archive: A Brewing Rebellion in the <em>Obi-Wan Kenobi</em> Limited Series"
+					href="https://www.starwars.com/news/inside-the-lucasfilm-archive-obi-wan-kenobi-props-3"
+					rel="bookmark"
+					title="Inside the Lucasfilm Archive: A Brewing Rebellion in the Obi-Wan Kenobi Limited Series">
+
+						Inside the Lucasfilm Archive: A Brewing Rebellion in the <em>Obi-Wan Kenobi</em> Limited Series
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Propmaster Brad Elliott discusses linking Jabba the Hutt to the burgeoning Rebel Alliance in the new limited series.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/kbaber" title="Posts by Kristin Baver" rel="author">Kristin Baver</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Obi-Wan Kenobi' href='/news/category/obi-wan-kenobi'>Obi-Wan Kenobi</a></span>
+
+    JULY 21, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/kbaber">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/k.baver-byline-v2-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Kristin Baver"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187327" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/SDCC 2022: Andor Costumes Revealed at the Lucasfilm Pavilion"
+				href="https://www.starwars.com/news/lucasfilm-pavilion-sdcc-2022"
+				rel="bookmark"
+				title="SDCC 2022: Andor Costumes Revealed at the Lucasfilm Pavilion">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/sdcc22-costumes-tall-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Andor costumes">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/SDCC 2022: <em>Andor</em> Costumes Revealed at the Lucasfilm Pavilion"
+					href="https://www.starwars.com/news/lucasfilm-pavilion-sdcc-2022"
+					rel="bookmark"
+					title="SDCC 2022: Andor Costumes Revealed at the Lucasfilm Pavilion">
+
+						SDCC 2022: <em>Andor</em> Costumes Revealed at the Lucasfilm Pavilion
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Check out screen-used costumes from <em>Obi-Wan Kenobi</em>, <em>The Book of Boba Fett</em>, <em>The Mandalorian</em>, and the newest Disney+ live-action <em>Star Wars</em> series.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Lucasfilm' href='/news/category/lucasfilm'>Lucasfilm</a></span>
+
+    JULY 21, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187147" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Aphra Faces the Spark Eternal in Marvel’s Star Wars: Doctor Aphra #22 &#8211; Exclusive Preview"
+				href="https://www.starwars.com/news/marvel-star-wars-doctor-aphra-22-exclusive-preview"
+				rel="bookmark"
+				title="Aphra Faces the Spark Eternal in Marvel’s Star Wars: Doctor Aphra #22 &#8211; Exclusive Preview">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/star-wars-doctor-aphra-22-cover-TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Aphra Faces the Spark Eternal in Marvel’s <em>Star Wars: Doctor Aphra</em> #22 &#8211; Exclusive Preview"
+					href="https://www.starwars.com/news/marvel-star-wars-doctor-aphra-22-exclusive-preview"
+					rel="bookmark"
+					title="Aphra Faces the Spark Eternal in Marvel’s Star Wars: Doctor Aphra #22 &#8211; Exclusive Preview">
+
+						Aphra Faces the Spark Eternal in Marvel’s <em>Star Wars: Doctor Aphra</em> #22 &#8211; Exclusive Preview
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>An evil awakens inside the rogue archaeologist.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 20, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187136" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Ben Kenobi Remembers the Clone Wars in Marvel’s Star Wars: Obi-Wan #3 &#8211; Exclusive Preview"
+				href="https://www.starwars.com/news/marvel-star-wars-obi-wan-3-exclusive-preview"
+				rel="bookmark"
+				title="Ben Kenobi Remembers the Clone Wars in Marvel’s Star Wars: Obi-Wan #3 &#8211; Exclusive Preview">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/star-wars-obi-wan-3-cover-_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Obi-Wan&nbsp;3 cover">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Ben Kenobi Remembers the Clone Wars in Marvel’s <em>Star Wars: Obi-Wan</em> #3 &#8211; Exclusive Preview"
+					href="https://www.starwars.com/news/marvel-star-wars-obi-wan-3-exclusive-preview"
+					rel="bookmark"
+					title="Ben Kenobi Remembers the Clone Wars in Marvel’s Star Wars: Obi-Wan #3 &#8211; Exclusive Preview">
+
+						Ben Kenobi Remembers the Clone Wars in Marvel’s <em>Star Wars: Obi-Wan</em> #3 &#8211; Exclusive Preview
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>The Jedi Master reflects on an old mission and friends from the past.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 20, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187104" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/As His 100th Star Wars Comic Hits Shelves, Charles Soule Looks Back"
+				href="https://www.starwars.com/news/charles-soule-star-wars-interview"
+				rel="bookmark"
+				title="As His 100th Star Wars Comic Hits Shelves, Charles Soule Looks Back">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/charles-soule-interview-TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Charles Soule">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/As His 100th <em>Star Wars</em> Comic Hits Shelves, Charles Soule Looks Back"
+					href="https://www.starwars.com/news/charles-soule-star-wars-interview"
+					rel="bookmark"
+					title="As His 100th Star Wars Comic Hits Shelves, Charles Soule Looks Back">
+
+						As His 100th <em>Star Wars</em> Comic Hits Shelves, Charles Soule Looks Back
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>The prolific writer on some of his biggest moments in the galaxy far, far away and reaching a milestone with <em>Star Wars</em> #25.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/dbrooks" title="Posts by Dan Brooks" rel="author">Dan Brooks</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 20, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/dbrooks">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2014/08/contributor_template-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt=""
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187278" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Explore Jedha of the High Republic Era and More from Marvel’s October 2022 Star Wars Comics &#8211; Exclusive Preview"
+				href="https://www.starwars.com/news/marvel-october-2022-star-wars-comics-preview"
+				rel="bookmark"
+				title="Explore Jedha of the High Republic Era and More from Marvel’s October 2022 Star Wars Comics &#8211; Exclusive Preview">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/Marvel-October-Solicits-tall_19vmp-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="A variant cover of The High Republic issue 1.">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Explore Jedha of the High Republic Era and More from Marvel’s October 2022 <em>Star Wars</em> Comics &#8211; Exclusive Preview"
+					href="https://www.starwars.com/news/marvel-october-2022-star-wars-comics-preview"
+					rel="bookmark"
+					title="Explore Jedha of the High Republic Era and More from Marvel’s October 2022 Star Wars Comics &#8211; Exclusive Preview">
+
+						Explore Jedha of the High Republic Era and More from Marvel’s October 2022 <em>Star Wars</em> Comics &#8211; Exclusive Preview
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Phase II of <em>Star Wars: The High Republic</em> begins with a relaunch of the titular comic, the Mandalorian searches for sanctuary, and much more!</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 19, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186956" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/We Checked Out the Drinks, Easter Eggs, and Galactic View at Star Wars: Hyperspace Lounge"
+				href="https://www.starwars.com/news/star-wars-hyperspace-lounge-disney-wish"
+				rel="bookmark"
+				title="We Checked Out the Drinks, Easter Eggs, and Galactic View at Star Wars: Hyperspace Lounge">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/disney-wish-hyperspace-lounge-seating_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Star Wars Hyperspace lounge">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/We Checked Out the Drinks, Easter Eggs, and Galactic View at <em>Star Wars</em>: Hyperspace Lounge"
+					href="https://www.starwars.com/news/star-wars-hyperspace-lounge-disney-wish"
+					rel="bookmark"
+					title="We Checked Out the Drinks, Easter Eggs, and Galactic View at Star Wars: Hyperspace Lounge">
+
+						We Checked Out the Drinks, Easter Eggs, and Galactic View at <em>Star Wars</em>: Hyperspace Lounge
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>The new <em>Star Wars</em>-themed lounge on the Disney Wish is a must-see for fans.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/jfujikawa" title="Posts by Jenn Fujikawa" rel="author">Jenn Fujikawa</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Disney Parks' href='/news/category/disney-parks'>Disney Parks</a></span>
+
+    JULY 18, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/jfujikawa">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/j.fujikawa-byline-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Jenn Fujikawa"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186806" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/25 of the Best Quotes from Obi-Wan Kenobi"
+				href="https://www.starwars.com/news/obi-wan-kenobi-disney-plus-quotes"
+				rel="bookmark"
+				title="25 of the Best Quotes from Obi-Wan Kenobi">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/owk-quotes-tall-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Darth Vader">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/25 of the Best Quotes from <em>Obi-Wan Kenobi</em>"
+					href="https://www.starwars.com/news/obi-wan-kenobi-disney-plus-quotes"
+					rel="bookmark"
+					title="25 of the Best Quotes from Obi-Wan Kenobi">
+
+						25 of the Best Quotes from <em>Obi-Wan Kenobi</em>
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Revisit poignant, humorous, and powerful lines from the Disney+ limited series. </p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/kellyknox" title="Posts by Kelly Knox" rel="author">Kelly Knox</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Obi-Wan Kenobi' href='/news/category/obi-wan-kenobi'>Obi-Wan Kenobi</a></span>
+
+    JULY 18, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/kellyknox">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/kelly-knox-byline-2-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Kelly Knox"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187137" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Shop the Galaxy&#8217;s Finest Star Wars Exclusives  at SDCC 2022"
+				href="https://www.starwars.com/news/star-wars-exclusives-sdcc-2022"
+				rel="bookmark"
+				title="Shop the Galaxy&#8217;s Finest Star Wars Exclusives  at SDCC 2022">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/SDCC-2022-Exclusives-COLLAGE_TALL-RATIOS-BLASTER-DOOR-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Shop the Galaxy&#8217;s Finest <em>Star Wars</em> Exclusives  at SDCC 2022"
+					href="https://www.starwars.com/news/star-wars-exclusives-sdcc-2022"
+					rel="bookmark"
+					title="Shop the Galaxy&#8217;s Finest Star Wars Exclusives  at SDCC 2022">
+
+						Shop the Galaxy&#8217;s Finest <em>Star Wars</em> Exclusives  at SDCC 2022
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>New action figures, clothes, and collectibles await <em>Star Wars</em> fans at the massive pop-culture event.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Collecting' href='/news/category/collecting'>Collecting</a></span>
+
+    JULY 15, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186992" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Inside the Lucasfilm Archive: Weapons of the Inquisitorius from the Obi-Wan Kenobi Limited Series"
+				href="https://www.starwars.com/news/inside-the-lucasfilm-archive-obi-wan-kenobi-props-2"
+				rel="bookmark"
+				title="Inside the Lucasfilm Archive: Weapons of the Inquisitorius from the Obi-Wan Kenobi Limited Series">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/obi-wan-kenobi-props-grand-inquisitor_TALL-1-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="The Grand Inquisitor">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Inside the Lucasfilm Archive: Weapons of the Inquisitorius from the <em>Obi-Wan Kenobi</em> Limited Series"
+					href="https://www.starwars.com/news/inside-the-lucasfilm-archive-obi-wan-kenobi-props-2"
+					rel="bookmark"
+					title="Inside the Lucasfilm Archive: Weapons of the Inquisitorius from the Obi-Wan Kenobi Limited Series">
+
+						Inside the Lucasfilm Archive: Weapons of the Inquisitorius from the <em>Obi-Wan Kenobi</em> Limited Series
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Propmaster Brad Elliott discusses translating animated lightsabers into real-world props.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/kbaber" title="Posts by Kristin Baver" rel="author">Kristin Baver</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Obi-Wan Kenobi' href='/news/category/obi-wan-kenobi'>Obi-Wan Kenobi</a></span>
+
+    JULY 14, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/kbaber">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/k.baver-byline-v2-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Kristin Baver"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187075" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/It Will Be a Summer Long Remembered with These Retro Star Wars Ice Cream Pops"
+				href="https://www.starwars.com/news/retro-star-wars-ice-cream-pops"
+				rel="bookmark"
+				title="It Will Be a Summer Long Remembered with These Retro Star Wars Ice Cream Pops">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/star-wars-ice-cream-bars-_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Darth Vader and Stormtrooper Ice Cream Pop">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/It Will Be a Summer Long Remembered with These Retro <em>Star Wars</em> Ice Cream Pops"
+					href="https://www.starwars.com/news/retro-star-wars-ice-cream-pops"
+					rel="bookmark"
+					title="It Will Be a Summer Long Remembered with These Retro Star Wars Ice Cream Pops">
+
+						It Will Be a Summer Long Remembered with These Retro <em>Star Wars</em> Ice Cream Pops
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Just in time for National Ice Cream Day on July 17, get the recipe for a most impressive dessert in a classic style.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/jfujikawa" title="Posts by Jenn Fujikawa" rel="author">Jenn Fujikawa</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Recipes' href='/news/category/recipes'>Recipes</a></span>
+
+    JULY 14, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/jfujikawa">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/j.fujikawa-byline-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Jenn Fujikawa"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186980" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Vader Pursues His Target in Marvel’s Star Wars: Darth Vader #25 – Exclusive Preview"
+				href="https://www.starwars.com/news/marvel-star-wars-darth-vader-25-han-solo-and-chewbacca-4-preview"
+				rel="bookmark"
+				title="Vader Pursues His Target in Marvel’s Star Wars: Darth Vader #25 – Exclusive Preview">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/darth-vader-25-cover_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Darth Vader 25 cover">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Vader Pursues His Target in Marvel’s <em>Star Wars: Darth Vader</em> #25 – Exclusive Preview"
+					href="https://www.starwars.com/news/marvel-star-wars-darth-vader-25-han-solo-and-chewbacca-4-preview"
+					rel="bookmark"
+					title="Vader Pursues His Target in Marvel’s Star Wars: Darth Vader #25 – Exclusive Preview">
+
+						Vader Pursues His Target in Marvel’s <em>Star Wars: Darth Vader</em> #25 – Exclusive Preview
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Plus, in <em>Star Wars: Han Solo &#038; Chewbacca</em> #4, Chewie is in a chase of his own when Krrsantan interrupts a job and takes off with Han Solo.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 13, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186986" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Lessons of the Skywalker Saga in Marvel’s Star Wars #25 – Exclusive Preview"
+				href="https://www.starwars.com/news/marvel-star-wars-25-exclusive-preview"
+				rel="bookmark"
+				title="Lessons of the Skywalker Saga in Marvel’s Star Wars #25 – Exclusive Preview">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/star-wars-25-cover_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Star Wars&nbsp;25 cover">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Lessons of the Skywalker Saga in Marvel’s <em>Star Wars</em> #25 – Exclusive Preview"
+					href="https://www.starwars.com/news/marvel-star-wars-25-exclusive-preview"
+					rel="bookmark"
+					title="Lessons of the Skywalker Saga in Marvel’s Star Wars #25 – Exclusive Preview">
+
+						Lessons of the Skywalker Saga in Marvel’s <em>Star Wars</em> #25 – Exclusive Preview
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>In four separate stories illustrated by different artists, explore favorite characters and new developments throughout the time of the Skywalker films and beyond.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 13, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-187172" class="content-box news ">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/The Book of Boba Fett, Star Wars: Visions Receive Emmy Award Nominations"
+				href="https://www.starwars.com/news/the-book-of-boba-fett-star-wars-visions-receive-emmy-award-nominations"
+				rel="bookmark"
+				title="The Book of Boba Fett, Star Wars: Visions Receive Emmy Award Nominations">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/the-book-of-boba-fett-emmy-nom_TALL.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Boba Fett and Fennec Shand">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/<em>The Book of Boba Fett</em>, <em>Star Wars: Visions</em> Receive Emmy Award Nominations"
+					href="https://www.starwars.com/news/the-book-of-boba-fett-star-wars-visions-receive-emmy-award-nominations"
+					rel="bookmark"
+					title="The Book of Boba Fett, Star Wars: Visions Receive Emmy Award Nominations">
+
+						<em>The Book of Boba Fett</em>, <em>Star Wars: Visions</em> Receive Emmy Award Nominations
+				</a>
+
+			</h2>
+
+			
+
+			
+				<section class="article-details">
+
+					<div class="article-category">
+						<a name='Lucasfilm' href='/news/category/lucasfilm'>Lucasfilm</a>					</div>
+
+					<div class="article-date">JULY 12, 2022</div>
+
+				</section>
+
+			
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186699" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Inside the Lucasfilm Archive: An Elegant Weapon and Other Jedi Artifacts from the Obi-Wan Kenobi Limited Series"
+				href="https://www.starwars.com/news/inside-the-lucasfilm-archive-obi-wan-kenobi-props-1"
+				rel="bookmark"
+				title="Inside the Lucasfilm Archive: An Elegant Weapon and Other Jedi Artifacts from the Obi-Wan Kenobi Limited Series">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/06/obi-wan-kenobi-lightsaber_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Obi-Wan holding his lightsaber">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Inside the Lucasfilm Archive: An Elegant Weapon and Other Jedi Artifacts from the <em>Obi-Wan Kenobi</em> Limited Series"
+					href="https://www.starwars.com/news/inside-the-lucasfilm-archive-obi-wan-kenobi-props-1"
+					rel="bookmark"
+					title="Inside the Lucasfilm Archive: An Elegant Weapon and Other Jedi Artifacts from the Obi-Wan Kenobi Limited Series">
+
+						Inside the Lucasfilm Archive: An Elegant Weapon and Other Jedi Artifacts from the <em>Obi-Wan Kenobi</em> Limited Series
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Propmaster Brad Elliott shares insights on fabricating Kenobi&#8217;s lightsaber and other personal items that link the new series to the prequel trilogy and the film that started it all.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/kbaber" title="Posts by Kristin Baver" rel="author">Kristin Baver</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Obi-Wan Kenobi' href='/news/category/obi-wan-kenobi'>Obi-Wan Kenobi</a></span>
+
+    JULY 12, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/kbaber">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/k.baver-byline-v2-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Kristin Baver"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186970" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Luke Skywalker and Leia Organa Talk Family in Star Wars: The Princess and the Scoundrel &#8211; Exclusive Excerpt"
+				href="https://www.starwars.com/news/star-wars-the-princess-and-the-scoundrel-excerpt"
+				rel="bookmark"
+				title="Luke Skywalker and Leia Organa Talk Family in Star Wars: The Princess and the Scoundrel &#8211; Exclusive Excerpt">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/05/star-wars-the-princess-and-the-scoundrel-cover_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Star Wars: The Princess and the Scoundrel cover">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Luke Skywalker and Leia Organa Talk Family in <em>Star Wars: The Princess and the Scoundrel</em> &#8211; Exclusive Excerpt"
+					href="https://www.starwars.com/news/star-wars-the-princess-and-the-scoundrel-excerpt"
+					rel="bookmark"
+					title="Luke Skywalker and Leia Organa Talk Family in Star Wars: The Princess and the Scoundrel &#8211; Exclusive Excerpt">
+
+						Luke Skywalker and Leia Organa Talk Family in <em>Star Wars: The Princess and the Scoundrel</em> &#8211; Exclusive Excerpt
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>In the aftermath of the Battle of Endor, a celebration and a funeral have led the twin rebels to consider what&#8217;s next.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 11, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186886" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Celebrate Obi-Wan Kenobi with Emojis, Stickers, and More"
+				href="https://www.starwars.com/news/obi-wan-kenobi-emojis-stickers-and-more"
+				rel="bookmark"
+				title="Celebrate Obi-Wan Kenobi with Emojis, Stickers, and More">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/jt-social-tall-A-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Obi-Wan Kenobi emojis">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Celebrate <em>Obi-Wan Kenobi</em> with Emojis, Stickers, and More"
+					href="https://www.starwars.com/news/obi-wan-kenobi-emojis-stickers-and-more"
+					rel="bookmark"
+					title="Celebrate Obi-Wan Kenobi with Emojis, Stickers, and More">
+
+						Celebrate <em>Obi-Wan Kenobi</em> with Emojis, Stickers, and More
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Enjoy a galaxy of add-ons and surprises for social media inspired by the hit Disney+ limited series.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Obi-Wan Kenobi' href='/news/category/obi-wan-kenobi'>Obi-Wan Kenobi</a></span>
+
+    JULY 8, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186950" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Light &#038; Magic Trailer, Official Poster Debut"
+				href="https://www.starwars.com/news/light-and-magic-trailer"
+				rel="bookmark"
+				title="Light &#038; Magic Trailer, Official Poster Debut">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/light-and-magic-tall-A-1536x512.jpeg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="George Lucas looks at art during the making of Star Wars: A New Hope from the key art of Light and Magic.">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/<em>Light &#038; Magic</em> Trailer, Official Poster Debut"
+					href="https://www.starwars.com/news/light-and-magic-trailer"
+					rel="bookmark"
+					title="Light &#038; Magic Trailer, Official Poster Debut">
+
+						<em>Light &#038; Magic</em> Trailer, Official Poster Debut
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Get a first look at the Disney+ original docuseries chronicling the history of Industrial Light &#038; Magic.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Disney+' href='/news/category/disney'>Disney+</a></span>
+
+    JULY 7, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186848" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/HasLab Looks to Bring Reva&#8217;s Lightsaber to Our Galaxy"
+				href="https://www.starwars.com/news/haslab-black-series-reva-force-fx-elite-lightsaber"
+				rel="bookmark"
+				title="HasLab Looks to Bring Reva&#8217;s Lightsaber to Our Galaxy">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/haslab-reva-lightsaber-tall-A-1536x512.jpeg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="HasLab Black Series Reva Force FX Lightsaber">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/HasLab Looks to Bring Reva&#8217;s Lightsaber to Our Galaxy"
+					href="https://www.starwars.com/news/haslab-black-series-reva-force-fx-elite-lightsaber"
+					rel="bookmark"
+					title="HasLab Looks to Bring Reva&#8217;s Lightsaber to Our Galaxy">
+
+						HasLab Looks to Bring Reva&#8217;s Lightsaber to Our Galaxy
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Product designer Chris Reiff on how Hasbro aims to construct a new, better lightsaber with its latest crowd-funded dream project.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/jlanda" title="Posts by Jennifer Landa" rel="author">Jennifer Landa</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Collecting' href='/news/category/collecting'>Collecting</a></span>
+
+    JULY 6, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/jlanda">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/j-landa-byline-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Jennifer Landa"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186805" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Din Djarin Arrives in Marvel’s Star Wars: The Mandalorian #1 &#8211; Exclusive Preview"
+				href="https://www.starwars.com/news/marvel-star-wars-the-mandalorian-1-preview"
+				rel="bookmark"
+				title="Din Djarin Arrives in Marvel’s Star Wars: The Mandalorian #1 &#8211; Exclusive Preview">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/star-wars-the-mandalorian-1-cover_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Star Wars: The Mandalorian&nbsp;1 cover">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Din Djarin Arrives in Marvel’s <em>Star Wars: The Mandalorian</em> #1 &#8211; Exclusive Preview"
+					href="https://www.starwars.com/news/marvel-star-wars-the-mandalorian-1-preview"
+					rel="bookmark"
+					title="Din Djarin Arrives in Marvel’s Star Wars: The Mandalorian #1 &#8211; Exclusive Preview">
+
+						Din Djarin Arrives in Marvel’s <em>Star Wars: The Mandalorian</em> #1 &#8211; Exclusive Preview
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Get your first look inside the comic book adaptation of the first <em>Star Wars</em> live-action series on Disney+.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 6, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186803" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/The Knights of Ren Return in Marvel’s Star Wars: Bounty Hunters #25 &#8211; Exclusive Preview"
+				href="https://www.starwars.com/news/marvel-star-wars-bounty-hunters-25-exclusive-preview"
+				rel="bookmark"
+				title="The Knights of Ren Return in Marvel’s Star Wars: Bounty Hunters #25 &#8211; Exclusive Preview">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/star-wars-bounty-hunters-25-cover_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Bounty Hunters&nbsp;25 cover">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/The Knights of Ren Return in Marvel’s <em>Star Wars: Bounty Hunters</em> #25 &#8211; Exclusive Preview"
+					href="https://www.starwars.com/news/marvel-star-wars-bounty-hunters-25-exclusive-preview"
+					rel="bookmark"
+					title="The Knights of Ren Return in Marvel’s Star Wars: Bounty Hunters #25 &#8211; Exclusive Preview">
+
+						The Knights of Ren Return in Marvel’s <em>Star Wars: Bounty Hunters</em> #25 &#8211; Exclusive Preview
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>4-LOM falls in a battle with the fearsome dark side foes.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Books + Comics' href='/news/category/books-and-comics'>Books + Comics</a></span>
+
+    JULY 6, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186779" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/DC Shoes Collects the Bounty on a New Boba Fett Capsule Collection &#8211; Reveal"
+				href="https://www.starwars.com/news/dc-shoes-star-wars-collection-reveal"
+				rel="bookmark"
+				title="DC Shoes Collects the Bounty on a New Boba Fett Capsule Collection &#8211; Reveal">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/dc-shoes-starwars-tall-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="The DC Shoes Boba Fett capsule collection featured image">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/DC Shoes Collects the Bounty on a New Boba Fett Capsule Collection &#8211; Reveal"
+					href="https://www.starwars.com/news/dc-shoes-star-wars-collection-reveal"
+					rel="bookmark"
+					title="DC Shoes Collects the Bounty on a New Boba Fett Capsule Collection &#8211; Reveal">
+
+						DC Shoes Collects the Bounty on a New Boba Fett Capsule Collection &#8211; Reveal
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>The action-sports footwear and apparel company has unveiled five character-driven capsule collections from the original trilogy including Darth Vader, Luke Skywalker, and more!</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/arichau" title="Posts by Amy Richau" rel="author">Amy Richau</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Merchandise' href='/news/category/merchandise'>Merchandise</a></span>
+
+    JULY 5, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/arichau">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2021/01/amy-richau-byline-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Amy Richau"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186715" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Quiz: How Well Do You Know Obi-Wan Kenobi?"
+				href="https://www.starwars.com/news/quiz-how-well-do-you-know-obi-wan-kenobi"
+				rel="bookmark"
+				title="Quiz: How Well Do You Know Obi-Wan Kenobi?">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/06/How-well-do-you-know-obi-wan-quiz-TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="Obi-Wan Kenobi in Part VI">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/Quiz: How Well Do You Know Obi-Wan Kenobi?"
+					href="https://www.starwars.com/news/quiz-how-well-do-you-know-obi-wan-kenobi"
+					rel="bookmark"
+					title="Quiz: How Well Do You Know Obi-Wan Kenobi?">
+
+						Quiz: How Well Do You Know Obi-Wan Kenobi?
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Test your trivia skill to gain the high ground on your friends and attain the rank of Jedi master.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/starwarsblog" title="Posts by StarWars.com Team" rel="author">StarWars.com Team</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Quizzes + Polls' href='/news/category/quizzes'>Quizzes + Polls</a></span>
+
+    JULY 1, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/starwarsblog">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/swblog-author-swcom-bb8-C.png"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Byline picture featuring BB-8"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+                                <li>
+                        
+<article id="post-186717" class="content-box news featured">
+
+		<section class="cb-photo">
+
+			<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/A DIY Lola for Your Little Leia or Luke"
+				href="https://www.starwars.com/news/diy-lola"
+				rel="bookmark"
+				title="A DIY Lola for Your Little Leia or Luke">
+
+					
+
+				<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2022/06/lola-paper-plate-craft-_TALL-1536x512.jpg"
+							src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+							class="lazy" alt="DIY LOLA as a wall decoration">
+
+					
+			</a>
+
+		</section>
+
+		<section class="cb-content">
+
+			<h2 class="cb-title">
+
+				<a name="&amp;lpos=content-box/tiles&amp;lid=content-box/tiles/title/A DIY Lola for Your Little Leia or Luke"
+					href="https://www.starwars.com/news/diy-lola"
+					rel="bookmark"
+					title="A DIY Lola for Your Little Leia or Luke">
+
+						A DIY Lola for Your Little Leia or Luke
+				</a>
+
+			</h2>
+
+			
+				<div class="content-body">
+					<p>Bring the adorable droid from <em>Obi-Wan Kenobi</em> to life with this easy craft.</p>
+				</div>
+
+			
+
+			<div class="byline">
+
+	<div class="byline-author">BY: <a href="https://www.starwars.com/news/contributor/kellyknox" title="Posts by Kelly Knox" rel="author">Kelly Knox</a></div>
+
+	<div class="byline-date"><span class="editorial"><a name='Creativity' href='/news/category/creativity'>Creativity</a></span>
+
+    JULY 1, 2022</div>
+
+	
+		<a class="byline-photo" href="https://www.starwars.com/news/contributor/kellyknox">
+
+			<img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/kelly-knox-byline-2-258x258.jpg"
+					src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png"
+					alt="Kelly Knox"
+					class="lazy">
+
+		</a>
+
+	
+</div>
+
+		</section>
+
+</article>
+                    </li>
+
+            
+		</ul>
+
+	</section>
+
+</main>
+
+<section class="pagination"><span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://www.starwars.com/news//page/2'>2</a>
+<a class='page-numbers' href='https://www.starwars.com/news//page/3'>3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://www.starwars.com/news//page/144'>144</a>
+<a class="next page-numbers" href="https://www.starwars.com/news//page/2">Older</a></section>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.page-numbers:contains("2")').addClass('do-not-hide');
+    });
+</script>
+
+<h2 class="section-header footer-cat-nav">News + Blog Categories</h2>
+<nav class="category-nav news">
+    <h2>News + Blog Categories</h2>
+    <div class="selected-category-wrapper"><h2 class="selected-category">All News + Blog Categories</h2></div><ul><li><a name="&lpos=sub-nav/1&lid=sub-nav/1/link/all"  href="/news" class="selected">All</a></li><li><a name="&lpos=sub-nav/2&lid=sub-nav/2/link/Andor" href="/news/category/andor" >Andor</a></li><li><a name="&lpos=sub-nav/3&lid=sub-nav/3/link/Behind the Scenes" href="/news/category/behind-the-scenes" >Behind the Scenes</a></li><li><a name="&lpos=sub-nav/4&lid=sub-nav/4/link/Books + Comics" href="/news/category/books-and-comics" >Books + Comics</a></li><li><a name="&lpos=sub-nav/5&lid=sub-nav/5/link/Characters + Histories" href="/news/category/characters-and-histories" >Characters + Histories</a></li><li><a name="&lpos=sub-nav/6&lid=sub-nav/6/link/Collecting" href="/news/category/collecting" >Collecting</a></li><li><a name="&lpos=sub-nav/7&lid=sub-nav/7/link/Creativity" href="/news/category/creativity" >Creativity</a></li><li><a name="&lpos=sub-nav/8&lid=sub-nav/8/link/Disney Parks" href="/news/category/disney-parks" >Disney Parks</a></li><li><a name="&lpos=sub-nav/9&lid=sub-nav/9/link/Disney+" href="/news/category/disney" >Disney+</a></li><li><a name="&lpos=sub-nav/10&lid=sub-nav/10/link/Events" href="/news/category/events" >Events</a></li><li><a name="&lpos=sub-nav/11&lid=sub-nav/11/link/Fans + Community" href="/news/category/fans-and-community" >Fans + Community</a></li><li><a name="&lpos=sub-nav/12&lid=sub-nav/12/link/Films" href="/news/category/films" >Films</a></li><li><a name="&lpos=sub-nav/13&lid=sub-nav/13/link/Force For Change" href="/news/category/force-for-change" >Force For Change</a></li><li><a name="&lpos=sub-nav/14&lid=sub-nav/14/link/Forces of Destiny" href="/news/category/forces-of-destiny" >Forces of Destiny</a></li><li><a name="&lpos=sub-nav/15&lid=sub-nav/15/link/Galaxy of Adventures" href="/news/category/galaxy-of-adventures" >Galaxy of Adventures</a></li><li><a name="&lpos=sub-nav/16&lid=sub-nav/16/link/Games + Apps" href="/news/category/games-apps" >Games + Apps</a></li><li><a name="&lpos=sub-nav/17&lid=sub-nav/17/link/ILMxLAB" href="/news/category/ilmxlab" >ILMxLAB</a></li><li><a name="&lpos=sub-nav/18&lid=sub-nav/18/link/In Pop Culture" href="/news/category/in-pop-culture" >In Pop Culture</a></li><li><a name="&lpos=sub-nav/19&lid=sub-nav/19/link/Interviews" href="/news/category/interviews" >Interviews</a></li><li><a name="&lpos=sub-nav/20&lid=sub-nav/20/link/LEGO Star Wars" href="/news/category/lego-star-wars" >LEGO Star Wars</a></li><li><a name="&lpos=sub-nav/21&lid=sub-nav/21/link/Lucasfilm" href="/news/category/lucasfilm" >Lucasfilm</a></li><li><a name="&lpos=sub-nav/22&lid=sub-nav/22/link/Merchandise" href="/news/category/merchandise" >Merchandise</a></li><li><a name="&lpos=sub-nav/23&lid=sub-nav/23/link/Obi-Wan Kenobi" href="/news/category/obi-wan-kenobi" >Obi-Wan Kenobi</a></li><li><a name="&lpos=sub-nav/24&lid=sub-nav/24/link/Opinions" href="/news/category/opinions" >Opinions</a></li><li><a name="&lpos=sub-nav/25&lid=sub-nav/25/link/Quizzes + Polls" href="/news/category/quizzes" >Quizzes + Polls</a></li><li><a name="&lpos=sub-nav/26&lid=sub-nav/26/link/Recipes" href="/news/category/recipes" >Recipes</a></li><li><a name="&lpos=sub-nav/27&lid=sub-nav/27/link/Rogue One" href="/news/category/rogue-one" >Rogue One</a></li><li><a name="&lpos=sub-nav/28&lid=sub-nav/28/link/Solo" href="/news/category/solo" >Solo</a></li><li><a name="&lpos=sub-nav/29&lid=sub-nav/29/link/Star Wars Celebration" href="/news/category/star-wars-celebration" >Star Wars Celebration</a></li><li><a name="&lpos=sub-nav/30&lid=sub-nav/30/link/Star Wars Day" href="/news/category/star-wars-day" >Star Wars Day</a></li><li><a name="&lpos=sub-nav/31&lid=sub-nav/31/link/Star Wars Rebels" href="/news/category/star-wars-rebels" >Star Wars Rebels</a></li><li><a name="&lpos=sub-nav/32&lid=sub-nav/32/link/Star Wars Resistance" href="/news/category/star-wars-resistance" >Star Wars Resistance</a></li><li><a name="&lpos=sub-nav/33&lid=sub-nav/33/link/Television" href="/news/category/television" >Television</a></li><li><a name="&lpos=sub-nav/34&lid=sub-nav/34/link/The Bad Batch" href="/news/category/the-bad-batch" >The Bad Batch</a></li><li><a name="&lpos=sub-nav/35&lid=sub-nav/35/link/The Book of Boba Fett" href="/news/category/the-book-of-boba-fett" >The Book of Boba Fett</a></li><li><a name="&lpos=sub-nav/36&lid=sub-nav/36/link/The Clone Wars" href="/news/category/star-wars-the-clone-wars" >The Clone Wars</a></li><li><a name="&lpos=sub-nav/37&lid=sub-nav/37/link/The Force Awakens" href="/news/category/the-force-awakens" >The Force Awakens</a></li><li><a name="&lpos=sub-nav/38&lid=sub-nav/38/link/The High Republic" href="/news/category/the-high-republic" >The High Republic</a></li><li><a name="&lpos=sub-nav/39&lid=sub-nav/39/link/The Last Jedi" href="/news/category/the-last-jedi" >The Last Jedi</a></li><li><a name="&lpos=sub-nav/40&lid=sub-nav/40/link/The Mandalorian" href="/news/category/the-mandalorian" >The Mandalorian</a></li><li><a name="&lpos=sub-nav/41&lid=sub-nav/41/link/The Rise of Skywalker" href="/news/category/the-rise-of-skywalker" >The Rise of Skywalker</a></li><li><a name="&lpos=sub-nav/42&lid=sub-nav/42/link/The Star Wars Show" href="/news/category/the-star-wars-show" >The Star Wars Show</a></li><li><a name="&lpos=sub-nav/43&lid=sub-nav/43/link/Visions" href="/news/category/star-wars-visions" >Visions</a></li></ul><select class="sub-nav-mobile" onchange="location = this.options[this.selectedIndex].value;"><option value="/news" selected>All News + Blog Categories</option><option value="/news/category/andor" >Andor</option><option value="/news/category/behind-the-scenes" >Behind the Scenes</option><option value="/news/category/books-and-comics" >Books + Comics</option><option value="/news/category/characters-and-histories" >Characters + Histories</option><option value="/news/category/collecting" >Collecting</option><option value="/news/category/creativity" >Creativity</option><option value="/news/category/disney-parks" >Disney Parks</option><option value="/news/category/disney" >Disney+</option><option value="/news/category/events" >Events</option><option value="/news/category/fans-and-community" >Fans + Community</option><option value="/news/category/films" >Films</option><option value="/news/category/force-for-change" >Force For Change</option><option value="/news/category/forces-of-destiny" >Forces of Destiny</option><option value="/news/category/galaxy-of-adventures" >Galaxy of Adventures</option><option value="/news/category/games-apps" >Games + Apps</option><option value="/news/category/ilmxlab" >ILMxLAB</option><option value="/news/category/in-pop-culture" >In Pop Culture</option><option value="/news/category/interviews" >Interviews</option><option value="/news/category/lego-star-wars" >LEGO Star Wars</option><option value="/news/category/lucasfilm" >Lucasfilm</option><option value="/news/category/merchandise" >Merchandise</option><option value="/news/category/obi-wan-kenobi" >Obi-Wan Kenobi</option><option value="/news/category/opinions" >Opinions</option><option value="/news/category/quizzes" >Quizzes + Polls</option><option value="/news/category/recipes" >Recipes</option><option value="/news/category/rogue-one" >Rogue One</option><option value="/news/category/solo" >Solo</option><option value="/news/category/star-wars-celebration" >Star Wars Celebration</option><option value="/news/category/star-wars-day" >Star Wars Day</option><option value="/news/category/star-wars-rebels" >Star Wars Rebels</option><option value="/news/category/star-wars-resistance" >Star Wars Resistance</option><option value="/news/category/television" >Television</option><option value="/news/category/the-bad-batch" >The Bad Batch</option><option value="/news/category/the-book-of-boba-fett" >The Book of Boba Fett</option><option value="/news/category/star-wars-the-clone-wars" >The Clone Wars</option><option value="/news/category/the-force-awakens" >The Force Awakens</option><option value="/news/category/the-high-republic" >The High Republic</option><option value="/news/category/the-last-jedi" >The Last Jedi</option><option value="/news/category/the-mandalorian" >The Mandalorian</option><option value="/news/category/the-rise-of-skywalker" >The Rise of Skywalker</option><option value="/news/category/the-star-wars-show" >The Star Wars Show</option><option value="/news/category/star-wars-visions" >Visions</option></select></nav>
+<h2 class="section-header">Featured Blog Contributors</h2>
+<ul class="contributor-list">
+            <li>
+            <a href="https://www.starwars.com/news/contributor/arichau">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2021/01/amy-richau-main-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Amy Richau">
+                <p>Amy Richau</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/awalas">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2016/04/Anina4-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="">
+                <p>Anina Walas</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/blavorgna">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/bria-lavorgna-profile-2-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Bria LaVorgna">
+                <p>Bria LaVorgna</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/dbrooks">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2014/08/dan-brooks-2-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Dan Brooks of Lucasfilm and StarWars.com">
+                <p>Dan Brooks</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/cmiranda">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2021/03/Carlos-Miranda-main-1-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Carlos Miranda">
+                <p>Carlos Miranda</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/ddiehl">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2021/02/dustin-diehl-main-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Dustin Diehl">
+                <p>Dustin Diehl</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/eshkoukani">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2020/09/emily-shkoukani-main-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Emily Shkoukani">
+                <p>Emily Shkoukani</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/dfiloni">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2015/03/filoni1-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Portrait of Dave Filoni">
+                <p>Dave Filoni</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/jlanda">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/Jennifer-Landa-Profile-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Jennifer Landa profile picture">
+                <p>Jennifer Landa</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/jfloyd">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/James-Floyd-profile-3-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="James Floyd profile picture">
+                <p>James Floyd</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/jfry">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/Jason-Fry-profile-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Jason Fry profile picture">
+                <p>Jason Fry</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/jfujikawa">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/03/jenn4-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Portrait of Jenn Fujikawa">
+                <p>Jenn Fujikawa</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/jgreene2">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2016/03/IMG_6839-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Jamie Greene posing with Mickey Mouse">
+                <p>Jamie Greene</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/kbaber">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2016/09/KB1-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="">
+                <p>Kristin Baver</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/kbarnes">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2020/11/Katie-Barnes-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Katie Barnes">
+                <p>Katie Barnes</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/kellyknox">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/kelly-knox-profile-1-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Kelly Knox profile picture">
+                <p>Kelly Knox</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/lseastrom">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/04/lucas-seastrom-sm-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Portrait of Lucas Seastrom">
+                <p>Lucas Seastrom</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/mnewbold">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2018/04/mark-newbold-profile-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Portrait of Mark Newbold">
+                <p>Mark Newbold</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/mcabral">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/10/mcabral-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Matt Cabral profile">
+                <p>Matt Cabral</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/nkleid">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2018/04/neil-kleid-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Portrait of Neil Kleid">
+                <p>Neil Kleid</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/aratcliffe">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/09/amy-ratcliffe-profile-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Amy Ratcliffe">
+                <p>Amy Ratcliffe</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/skrishna">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2019/08/swapna-krishna-headshot-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="">
+                <p>Swapna Krishna</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/starwarsblog">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2017/08/bb8-author.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="">
+                <p>StarWars.com Team</p>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.starwars.com/news/contributor/zehrd001">
+                <img data-original="https://starwarsblog.starwars.com/wp-content/uploads/2020/11/Zehr-Family-2020-Zehr-Family-Finals-0182-536x536.jpg" src="https://www.starwars.com/wp-content/themes/starwars-theme/library/images/lazy.png" class="lazy"
+                     alt="Dan Zehr">
+                <p>Dan Zehr</p>
+            </a>
+        </li>
+    </ul>
+
+<h2 class="section-header">Archive</h2>
+<ul class="archive-list">
+		<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2022'>2022</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2021'>2021</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2020'>2020</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2019'>2019</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2018'>2018</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2017'>2017</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2016'>2016</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2015'>2015</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2014'>2014</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2013'>2013</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2012'>2012</a></div></li>
+	<li><div class="archive-wrapper"><a href='https://www.starwars.com/news/2011'>2011</a></div></li>
+</ul>
+</main> 
+
+				<!-- MH Footer --><footer itemscope itemtype="http://schema.org/WPFooter"> <section id="utility" class="social"> <div class="social-links"> <p>Follow Star Wars:</p> <ul id="social-links">
+    <li>
+      <a class="facebook" href="https://www.facebook.com/StarWars" target="_blank" rel="noopener noreferrer" data-cto="social" title="facebook">
+        <span class="facebook-icon"></span>
+      </a>
+    </li>
+    <li>
+      <a class="instagram" href="https://www.instagram.com/starwars/" target="_blank" rel="noopener noreferrer" data-cto="social" title="instagram">
+        <span class="instagram-icon"></span>
+      </a>
+    </li>
+    <li>
+      <a class="twitter" href="https://twitter.com/starwars" target="_blank" rel="noopener noreferrer" data-cto="social" title="twitter">
+        <span class="twitter-icon"></span>
+      </a>
+    </li>
+    <li>
+      <a class="youtube" href="https://www.youtube.com/user/starwars" target="_blank" rel="noopener noreferrer" data-cto="social" title="youtube">
+        <span class="youtube-icon"></span>
+      </a>
+    </li>
+</ul>
+ <span class="sw-kids-container"> <a class="sw-kids" href="https://starwarskids.com/" target="_blank" title="Star Wars Kids" data-cto="swkids"> <span class="sw-kids-icon"></span> </a> </span> </div> </section> <section id="help"> <div> <p id="copyright">TM &amp; © Lucasfilm Ltd. All Rights Reserved</p> <ul id="legal">  <li><a target="_blank" href="http://disneytermsofuse.com/">Terms of Use</a></li>  <li><a target="_blank" href="http://disney.go.com/guestservices/legalnotices?ppLink=pp_wdig">Additional Content Information</a></li>  <li><a target="_blank" href="http://disneyprivacycenter.com/">Privacy Policy</a></li>  <li><a target="_blank" href="https://disneyprivacycenter.com/kids-privacy-policy/english/">Children’s Online Privacy Policy</a></li>  <li><a target="_blank" href="https://disneyprivacycenter.com/notice-to-california-residents/">Your California Privacy Rights</a></li>  <li><a target="_blank" href="https://www.shopdisney.com/franchises/star-wars/?CMP=SYN-Dcom&amp;att=StarWars_Footer_Store">Star Wars at shopDisney</a></li>  <li><a target="_blank" href="https://support.starwars.com/">Star Wars Helpdesk</a></li>  <li><a target="_blank" href="http://preferences-mgr.truste.com/?type=starwars&amp;affiliateId=115">Interest-Based Ads</a></li>  <li><a target="_blank" href="https://privacyportal-de.onetrust.com/webform/64f077b5-2f93-429f-a005-c0206ec0738e/0a4f1f0b-7130-421f-971d-ef578c0bce6d">Do Not Sell My Personal Information</a></li>  </ul> </div> </section> </footer> <div id='modal-container' role='dialog' aria-labelledby='modal-content'>
+  <div id='modal-window' class='out-of-burger' aria-modal='false'>
+    <div id='modal-close' class='top-right hidden'></div>
+    <div id='browser-warning' class='modal browser-warning'>
+      <div class='modal-content'>
+  <h3 class='modal-title'>This site does not work on your browser.</h3>
+  <p class='modal-desc'>Please upgrade your browser to experience the site.</p>
+</div>
+
+    </div>
+  </div>
+  <div id='modal-overlay'></div>
+</div>
+				</div> <!-- end .container -->
+
+				<!-- MH Cookie Warning -->
+				<!-- all js scripts are loaded in library/swt.php -->
+				<script type="text/javascript">panopress.imagebox();</script><script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"appId":"251829831684619"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/plugins/disney-slider-plugin/assets/js/disney-slider.min.js?ver=20210222v2'></script>
+<script type='text/javascript' src='//native.sharethrough.com/assets/sfp-set-targeting.js'></script>
+<script type='text/javascript' src='//a.dilcdn.com/swp/us/navigation.js?ver=20220301v2'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/themes/starwars-theme/library/js/foundation.min.js?ver=4.9.14'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/themes/starwars-theme/library/js/vendor/jquery.lazyload.min.js?ver=4.9.14'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/themes/starwars-theme/library/js/vendor/jquery.dotdotdot.min.js?ver=1.6.14'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/themes/starwars-theme/library/js/scripts.js?ver=20220301v2'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/themes/starwars-theme/library/js/video.js?ver=20220301v2'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/themes/starwars-theme/library/js/vendor/jquery.jqSocialSharer.min.js?ver=4.9.14'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/plugins/wp-jquery-lightbox/jquery.touchwipe.min.js?ver=1.4.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"showTitle":"0","showCaption":"1","showNumbers":"1","fitToScreen":"1","resizeSpeed":"400","showDownload":"0","navbarOnTop":"0","marginSize":"0","slideshowSpeed":"4000","prevLinkTitle":"previous image","nextLinkTitle":"next image","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","pause":"(pause slideshow)","play":"(play slideshow)"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.starwars.com/wp-content/plugins/wp-jquery-lightbox/jquery.lightbox.min.js?ver=1.4.6'></script>
+<script type='text/javascript' src='https://www.starwars.com/wp-includes/js/wp-embed.min.js?ver=4.9.14'></script>
+<div id="fb-root"></div>				<!-- BEGIN DOL Web Analytics DO NOT EDIT OR REMOVE THIS LINE-->
+
+<script>
+
+    function CTOinit() {
+
+      if (window.CTO) {
+        cto = new CTO();
+        cto.account = "wdgdollucas,wdgdolstarcom,wdgdsec,matterhorn";
+        cto.categoryCode = "luc";
+        cto.siteCode = "starwars";
+        cto.breadcrumbs="homepage";
+        cto.pageName="main_1";
+        cto.pageId="main";
+        cto.postDate="2022-07-01 06:00:11";
+        cto.brandSegment = "luc";
+        cto.templateType = "news";
+        cto.propertyCode = "sws";
+        cto.buCode = "luc";
+                cto.track();//Required. Do not remove.
+
+        //Detect Quiz container.
+        var swQuizObj = document.getElementsByClassName( 'tm-quiz-container' );
+
+        //Only trigger article_start if article does not contain a quiz/poll
+        if( !swQuizObj.length ) {
+                  }
+
+        var isPollType = $( '.tm-quiz-container' ).hasClass( 'quiz-poll' );
+
+        //If quiz container is present, trigger trackEvent.
+        if( swQuizObj.length > 0 ) {
+          if ( isPollType ) {
+            cto.trackEvent( {'engagementType':'poll_start'} );
+          } else {
+            cto.trackEvent( {'engagementType':'quiz_start'} );
+          }
+        }
+      }
+    }
+
+</script>
+
+	</body>
+
+</html> <!-- end page -->
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: ~starwars\\. @ 2022-07-27 21:17:37 by W3 Total Cache
+-->
